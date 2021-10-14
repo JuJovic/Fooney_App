@@ -1,0 +1,15 @@
+Szenario 1:
+
+Katja hat ihren Wocheneinkauf erledigt und kommt gerade nach Hause und möchte alle eingekauften Waren verräumen.
+
+1. Sie ruft die FooNey-App auf und legt für jeden gekauften Artikel bzw. Lebensmittel einen neuen Eintrag an. 
+
+2. Nachdem Sie damit fertig ist werden ihr aufgrund der noch vorhandenen und der neuen Lebensmittel einige
+Rezepte vorgeschlagen, welche sie jetzt kochen könnte und womit sie in Kürze ablaufende Lebensmittel verbrauchen würde. 
+
+3. Sie kocht eines der vorgeschlagenen Gerichte und löscht dann einzelne Einträge der Lebensmittel, welche sie gerade verbraucht hat.
+
+4. Es werden ihr erneut einige Rezepte mit den restlichen Lebensmittel vorgeschlagen welche sie morgen oder übermorgen kochen will.
+
+5. Am nächsten Tag erhält sie die Benachrichtigung, dass ihr Joghurt morgen abläuft und heute dringend verbraucht werden sollte, sie hatte eigentlich vor etwas anderes zu kochen, da dieser Joghurt aber morgen abläuft bereitet
+sie sich lieber einen Obstjoghurt zu anstatt erneut zu kochen.
